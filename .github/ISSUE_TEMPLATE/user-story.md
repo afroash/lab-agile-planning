@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: User Story template
+about: User Story template, agile
 title: ''
 labels: ''
 assignees: ''
